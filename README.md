@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Artem Parhomenko 👋
 
 <!--
 **catrix-noise/catrix-noise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
