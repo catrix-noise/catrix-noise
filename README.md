@@ -58,4 +58,4 @@ I am an aspiring **SRE & DevOps** enthusiast with a strong interest in **DevOpSe
   <img alt="bye" src="images/social_media.gif" style="height: 150px; object-fit: contain;">
 </p>
 
-![Заголовок](https://capsule-render.vercel.app/api?type=transparent&fontColor=2fce80&text=bye&fontSize=40)
+![Пока](https://capsule-render.vercel.app/api?type=transparent&fontColor=2fce80&text=bye&fontSize=40)
