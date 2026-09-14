@@ -52,7 +52,8 @@ I am an aspiring **SRE & DevOps** enthusiast with a strong interest in **DevOpSe
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" alt="Prometheus" title="Prometheus"/></code>
 </div>
 
+---
 
-<p align="center" style="margin-top: 70px;">
+<p align="center">
   <img alt="bye" src="images/social_media.gif" style="height: 150px; object-fit: contain;">
 </p>
