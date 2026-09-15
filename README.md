@@ -8,7 +8,7 @@
   <strong>Aspiring SRE & DevOps Engineer / DevOpSec Enthusiast / Linux Explorer</strong>
 </p> -->
 
-![Aspiring SRE & DevOps Engineer / DevOpSec Enthusiast / Linux Explorer](https://capsule-render.vercel.app/api?type=transparent&fontColor=2fce80&text=Aspiring%20SRE%20and%20DevOps%20Engineer%20/%20DevOpSec%20Enthusiast%20/%20Linux%20Explorer&fontSize=17)
+![Aspiring SRE & DevOps Engineer / DevOpSec Enthusiast / Linux Explorer](https://capsule-render.vercel.app/api?type=transparent&fontColor=2fce80&text=Aspiring%20SRE%20and%20DevOps%20Engineer%20/%20DevOpSec%20Enthusiast%20/%20Linux%20Explorer&fontSize=17&height=20&animation=fadeIn)
 
 <p align="center" style="display: flex; justify-content: center; align-items: center;gap: 20px;">
   <a href="_"><img src="https://www.readmecodegen.com/api/social-icon?name=google&size=32&textAlignment=horizontal&color=%230088cc&showText=true&textColor=%230088cc" alt="google"/></a>
@@ -19,7 +19,7 @@
 ---
 
 <!-- <h1 style="color: #2fce80">Обо мне / About me</h1> -->
-![👤 Обо мне / About me](https://capsule-render.vercel.app/api?type=transparent&fontColor=2fce80&text=👤%20Обо%20мне%20/%20About%20me&fontSize=40)
+![👤 Обо мне / About me](https://capsule-render.vercel.app/api?type=transparent&fontColor=2fce80&text=👤%20Обо%20мне%20/%20About%20me&fontSize=40&height=90)
 
 Я — начинающий специалист в области **SRE и DevOps** с глубоким интересом к **DevOpSec** и системному администрированию. Сейчас я активно изучаю архитектуру Linux, основы автоматизации и безопасной настройки инфраструктуры, шаг за шагом двигаясь к своей цели — стать SRE-инженером.
 
@@ -32,7 +32,7 @@ I am an aspiring **SRE & DevOps** enthusiast with a strong interest in **DevOpSe
 
 ---
 
-![🛠 Технологии и Инструменты / Tech Stack & Tools](https://capsule-render.vercel.app/api?type=transparent&fontColor=2fce80&text=🛠%20Технологии%20и%20Инструменты%20/%20Tech%20Stack%20and%20Tools&fontSize=30)
+![🛠 Технологии и Инструменты / Tech Stack & Tools](https://capsule-render.vercel.app/api?type=transparent&fontColor=2fce80&text=🛠%20Технологии%20и%20Инструменты%20/%20Tech%20Stack%20and%20Tools&fontSize=30&height=90)
 
 <!-- <h1 style="color: #2fce80">🛠 Технологии и Инструменты / Tech Stack & Tools</h1> -->
 <h3 align="center">OS & Core</h3> 
